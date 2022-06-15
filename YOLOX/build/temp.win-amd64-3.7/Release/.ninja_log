@@ -1,0 +1,5 @@
+# ninja log v5
+12	1895	6697259437812738	C:/Users/iai/Desktop/video_extraction/YOLOX/build/temp.win-amd64-3.7/Release/Users/iai/Desktop/video_extraction/YOLOX/yolox/layers/csrc/vision.obj	d16bd3a63ec2c663
+0	2010	6697259437792792	C:/Users/iai/Desktop/video_extraction/YOLOX/build/temp.win-amd64-3.7/Release/Users/iai/Desktop/video_extraction/YOLOX/yolox/layers/csrc/cocoeval/cocoeval.obj	aa27fc8874a4cd3a
+602	2779	6697454944741112	C:/Users/iai/Desktop/video_extraction/YOLOX/build/temp.win-amd64-3.7/Release/Users/iai/Desktop/video_extraction/YOLOX/yolox/layers/csrc/cocoeval/cocoeval.obj	a9e6ecd3ba8a4d3
+0	2885	6697454944776387	C:/Users/iai/Desktop/video_extraction/YOLOX/build/temp.win-amd64-3.7/Release/Users/iai/Desktop/video_extraction/YOLOX/yolox/layers/csrc/vision.obj	41316b98b991d51c
