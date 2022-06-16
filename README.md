@@ -4,7 +4,7 @@ Billiards Ball Object Detection(YOLOX + ByteTrack + VideoExtraction)
 
 Motivation
 ===============
-I propose a new trained billards ball detector in advanced education class at KHU
+I propose a new trained billards ball detector in 'Independent Learning and Research(독립심화학습)' class at KHU
 
 Demo Video
 ============
