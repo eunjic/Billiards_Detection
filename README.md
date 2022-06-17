@@ -4,7 +4,20 @@ Billiards Ball Object Detection(YOLOX + ByteTrack + VideoExtraction)
 
 Motivation
 ===============
-I propose a new trained billards ball detector in 'Independent Learning and Research(독립심화학습)' class at KHU
+I propose a new trained billards ball detector in 'Independent Learning and Research(독립심화학습)' class at KHU.
+
+다양한 분야, 특히 스포츠 산업에서의 인공지능의 적용을 시도하고 싶었습니다. 
+많은 기술이 적용되고 있는 골프와 달리 한국 당구는 오픈 데이터가 존재하지 않고, 기술의 실시간 적용이 부진한 상황이었습니다.
+특히나 3구, 4구와 같은 당구 스포츠는 초보자에게 진입장벽이 높아 이를 해소할 수 있는 기술을 개발하고 싶었습니다.
+
+Process
+====================
+저는 3-stype으로 나눠 Billards Skill Prediction 과제를 수행하고자 합니다.
+(1) 당구 공 Object Detetor를 학습시킨다.
+(2) 당구 공 궤적 데이터와 (수구, 제1목적구, 제2목적구), kiss 여부, score 여부, 마지막으로 기술을 라벨링한 데이터를 데이터베이스에 저장한다.
+
+
+
 
 Demo Video
 ============
