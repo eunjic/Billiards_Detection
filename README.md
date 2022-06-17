@@ -13,8 +13,13 @@ I propose a new trained billards ball detector in 'Independent Learning and Rese
 Process
 ====================
 저는 3-stype으로 나눠 Billards Skill Prediction 과제를 수행하고자 합니다.
+
 (1) 당구 공 Object Detetor를 학습시킨다.
+
 (2) 당구 공 궤적 데이터와 (수구, 제1목적구, 제2목적구), kiss 여부, score 여부, 마지막으로 기술을 라벨링한 데이터를 데이터베이스에 저장한다.
+    (2)-1 당구 공 궤적 데이터 일부만 기술을 라벨링한 뒤, 예측기를 학습하여 나머지 데이터를 전부 라벨링한다.
+    
+(3) 정지한 3구 당구공이 주어졌을 때, 제1목적구를 설정한 뒤 K-NN을 사용하여 kiss 여부, score 여부에 따른 비슷한 상황을 추천한다. 
 
 
 
